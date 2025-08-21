@@ -6,7 +6,7 @@ Este projeto apresenta um design limpo com animações suaves.
 ---
 
 ## 🌐 Visualize o projeto  
-👉 [Ver Projeto Online]([https://SEU-LINK-AQUI](https://damasiodev.github.io/cafena-page/))  
+👉 [Ver Projeto Online](https://damasiodev.github.io/cafena-page/)
 
 ---
 
